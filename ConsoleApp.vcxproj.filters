@@ -29,10 +29,10 @@
     <ClInclude Include="CharacterFunction.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="ConsoleApp.h">
+    <ClInclude Include="..\spr-labs-MrProperlyHood36\Lab 6 - School Builder\Lab\Helper.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\spr-labs-MrProperlyHood36\Lab 6 - School Builder\Lab\Helper.h">
+    <ClInclude Include="ConsoleApp.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
